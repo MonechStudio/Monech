@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monechinfo
+- 👋 Hi, I’m @MonechStudio
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning the development process
 - 💞️ I’m looking to collaborate on substantial web 3 project
